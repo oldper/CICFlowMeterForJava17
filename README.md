@@ -1,5 +1,7 @@
 ## Install jnetpcap local repo
 
+env: java 17.0.6 openjdk, gradle 7.3
+
 for linux, sudo is a prerequisite
 ```
 //linux :at the pathtoproject/jnetpcap/linux/jnetpcap-1.4.r1425
